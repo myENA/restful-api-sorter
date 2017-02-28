@@ -1,4 +1,4 @@
-package main
+package restfulSorters
 
 import (
 	"github.com/emicklei/go-restful/swagger"
