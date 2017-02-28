@@ -18,4 +18,4 @@ To that end, this package endeavors to sort the api's in go, which is just bette
 
 ## Available Sort Methods
 
-- [AscendingByResourcePath](./sorters#L8)
+- [AscendingByResourcePath](./sorters.go#L8)
