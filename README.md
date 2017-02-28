@@ -19,3 +19,10 @@ To that end, this package endeavors to sort the api's in go, which is just bette
 ## Available Sort Methods
 
 - [AscendingByResourcePath](./sorters.go#L8)
+
+## Usage
+
+Each of the functions present in this package are implementations of 
+[PostBuildDeclarationMapFunc](https://github.com/emicklei/go-restful/blob/v1.2/swagger/config.go#L10), and is used
+by setting the `PostBuildHandler` property on the 
+[Config](https://github.com/emicklei/go-restful/blob/v1.2/swagger/config.go#L12) struct.
