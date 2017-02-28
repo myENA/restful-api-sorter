@@ -1,6 +1,10 @@
 # restful-api-sorter
 Utilities for sorting go-restful api's for output in Swagger
 
+## Targeted Versions
+
+- [v1.2](https://github.com/emicklei/go-restful/tree/v1.2) 
+
 ## Description
 
 If you utilize [go-restful](https://github.com/emicklei/go-restful)'s ability to generate [Swagger](http://swagger.io/)
