@@ -6,7 +6,7 @@ Utilities for sorting go-restful api's for output in Swagger
 | restful-api-sorter | compatibility |
 | :---: | :---: |
 | [v1.2](https://github.com/myENA/restful-api-sorter/tree/v1.2) | [go-restful v1.2](https://github.com/emicklei/go-restful/tree/v1.2) |
-| [master](https://github.com/myENA/restful-api-sorter/tree/master) | [go-restful-swagger12 1.*](https://github.com/emicklei/go-restful-swagger12/tree/1.0.1) |
+| [swagger12](https://github.com/myENA/restful-api-sorter/tree/swagger12) | [go-restful-swagger12 1.*](https://github.com/emicklei/go-restful-swagger12/tree/1.0.1) |
 
 ## Description
 
