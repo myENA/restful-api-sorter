@@ -1,0 +1,3 @@
+[[constraint]]
+    name="github.com/emicklei/go-restful"
+    version="v1.2.*"
