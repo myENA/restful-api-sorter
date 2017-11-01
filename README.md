@@ -3,14 +3,14 @@ Utilities for sorting go-restful api's for output in Swagger
 
 ## Targeted Versions
 
-| go-restful | restful-api-sorter |
+| restful-api-sorter | compatibility |
 | :---: | :---: |
-| [v1.2](https://github.com/emicklei/go-restful/tree/v1.2) | [v1.2](https://github.com/myENA/restful-api-sorter/tree/v1.2) |
-| [master](https://github.com/emicklei/go-restful) | [master](https://github.com/myENA/restful-api-sorter/tree/master) |
+| [v1.2](https://github.com/myENA/restful-api-sorter/tree/v1.2) | [go-restful v1.2](https://github.com/emicklei/go-restful/tree/v1.2) |
+| [swagger12](https://github.com/myENA/restful-api-sorter/tree/swagger12) | [go-restful-swagger12 1.*](https://github.com/emicklei/go-restful-swagger12/tree/1.0.1) |
 
 ## Description
 
-If you utilize [go-restful](https://github.com/emicklei/go-restful)'s ability to generate [Swagger](http://swagger.io/)
+If you utilize [go-restful](https://github.com/emicklei/go-restful) or [go-restful-swagger12](https://github.com/emicklei/go-restful-swagger12)'s ability to generate [Swagger](http://swagger.io/)
 docs, you've undoutedly noticed that the order is not pre-defined and must be sorted client-side.  This can be
 problematic if you have a particularly large API list.
 
